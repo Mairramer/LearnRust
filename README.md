@@ -2,6 +2,7 @@
 Começando o estudo de Rust 
 
 Links:
+
 https://www.rust-lang.org/pt-BR
 
 https://doc.rust-lang.org/book/

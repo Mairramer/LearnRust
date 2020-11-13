@@ -1,5 +1,5 @@
 # LearnRust
-Começando o estudo de Rust 
+Rust me agrada pois é mais facil escrever do que C/C++, mantendo a performance(ou até melhor).Digo isso com todo o amor por C ❤️
 
 Links:
 

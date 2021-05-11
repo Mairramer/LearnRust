@@ -11,7 +11,7 @@ fn main() {
     let temperatura: f64 = temperatura
         .trim()
         .parse()
-        .expect("Erro na entrade de dados");
+        .expect("Erro na entrada de dados");
 
     println!("Digite c para converter em Celsius ou f para converter em Farenheit");
 
